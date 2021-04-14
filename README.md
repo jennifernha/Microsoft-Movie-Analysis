@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis
 
-**Authors**: Jennifer Ha
+**Author**: Jennifer Ha
 
 ## Overview
 
