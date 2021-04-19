@@ -8,35 +8,32 @@ A one-paragraph overview of the project, including the business problem, data, m
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. 
+
+In order to assist the stakeholders at Microsoft to make data-driven decision for their new business, we will be reviewing and analyzing datasets to provide a viable and profitable business option. The findings and recommendations will help the stakeholders with better understanding in this industry, how to better spend their budget, and who to work with to drive a successful outcome.
 
 ***
 Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
+* Which genres are the most profi`table and yield the highest ROI?
+* What is the ideal budget range to yield the highest ROI?
+* Who are the top casts and directors in those genres that Microsoft should work with?
 ***
 
 ## Data
+For this project, the following data sets from The Numbers and IMDb were used to answer the questions in the above.  
 
-Describe the data being used for this project.
+* `tn_movie_budgets`: This data set from The Numbers contains movie production budget, domestic, and international revenue amount by movie, which will be used to conduct ROI anaylsis. 
 
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
+* `imdb_name_basics`: This data set from IMDb contains general movie information with movie title, runtime, genre(s). Every movie has a unique ID (`tconst`) assigned, which will be used as primary key/foreign key to join other imdb data sets.
+
+* `imdb_title_principals`: This data set from IMDb contains job title for people who participated in a film with a unique ID (`nconst`) that can be used to identify individual participants. This dat set also includes a foreign key (`tconst`).
+
+* `imdb_title_basics`: This dat set from IMDb contains names of individuals in the business with their profession title(s), movies they participated listed with the `tconst`, and their unique ID `nconst`.
 ***
 
 ## Methods
-
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
+When cleaning the data, we will drop all columns that we don't need for this project.
+We will clean up duplicates after we join the tables so that we can achieve the desirable output record at once.
 ***
 
 ## Results
