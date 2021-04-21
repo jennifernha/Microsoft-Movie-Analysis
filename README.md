@@ -39,15 +39,26 @@ We will clean up duplicates after we join the tables so that we can achieve the 
 ***
 
 ## Results
+### Release movies in May, June, July, November, or December!
+Domestically and internationally, we see highest ROI in May, June, July, November, December. Such trend tells us that people are more willing to go watch a movie during the summertime and holiday seasons towards the end of year.
+![graph1](./images/worldwide_roi_by_release_month.png)
+![graph2](./images/domestic_roi_by_release_month.png)
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+### Mystery, Horror, Animation win!
+I advise the stakeholders at Microsoft to consider producing movies in Mystery, Horror, Animation genres.
+
+![graph3](./images/median_roi_by_genre.png)
+
+### Let's recruit people!
+This analysis provides Microsoft with lists of actors and directors who were part of most successful movies in Mystery, Horror, and Animation. Microsoft should consider working with these individuals in order to enter movie industry with "big hit" movies.
+![graph4](./images/actors_mystery.png)
+![graph5](./images/directors_mystery.png)
+![graph6](./images/actors_horror.png)
+![graph7](./images/directors_horror.png)
+![graph8](./images/actors_animation.png)
+![graph9](./images/directors_animation.png)
 ***
 
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
-***
 
 ## Conclusions
 This analysis leads to three recommendations for creating movies :
