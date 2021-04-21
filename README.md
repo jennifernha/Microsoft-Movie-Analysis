@@ -1,4 +1,4 @@
-![Cover]( ./images/Analysis Cover.png)
+![Cover]( ./images/Analysis Cover.jpg)
 # Microsoft Movie Analysis
 
 **Author**: Jennifer Ha
