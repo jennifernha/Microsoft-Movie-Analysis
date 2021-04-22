@@ -64,6 +64,6 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── images                        
 ├── Microsoft Movie Analysis.ipynb   
-├──Prensentation.pdf                                    
+├── Prensentation.pdf                                    
 └── README.md   
  
