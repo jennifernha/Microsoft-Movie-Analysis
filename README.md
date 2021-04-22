@@ -53,7 +53,7 @@ Further analyses could lead to additional insights:
 * **Ideal Budget Range**: This modeling could predict the ideal production budget for the movies that Microsoft wants to produce.
 ***
 ## For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/jennifernha/Microsoft-Movie-Analysis/blob/main/Microsoft%20Movie%20Analysis.ipynb) or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/jennifernha/Microsoft-Movie-Analysis/blob/main/Microsoft%20Movie%20Analysis.ipynb) or review this [presentation](https://github.com/jennifernha/Microsoft-Movie-Analysis/blob/main/Microsoft_Movie_Analysis_Presentation.pdf).
 For additional info, contact Jennifer Ha at jnha1119@gmail.com
 ***
 ## Repository Structure
