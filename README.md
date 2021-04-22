@@ -59,10 +59,8 @@ For additional info, contact Jennifer Ha at jnha1119@gmail.com
 ## Repository Structure
 Describe the structure of your repository and its contents, for example:
 ```
-├── images                        <- The top-level README for reviewers of this project
-├── Microsoft Movie Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── README.md                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
-```
+├── images                        
+├── Microsoft Movie Analysis.ipynb   
+├── Microsoft_Movie_Analysis.pdf                                      
+└── README.md   
  
