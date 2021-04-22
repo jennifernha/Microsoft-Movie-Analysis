@@ -21,7 +21,7 @@ For this project, the following data sets from The Numbers and IMDb were used to
 * `imdb_title_basics`: This data set from IMDb contains names of individuals in the business with their profession title(s), movies they participated listed with the `tconst`, and their unique ID `nconst`.
 ***
 ## Methods
-This project uses descriptive analysis, including description of ROI trends b. This provides a useful overview of ROI by release month, genre, and individual (cast & directors).
+This project uses descriptive analysis, including description of ROI trends. This provides a useful overview of ROI by release month, genre, and individual (cast & directors).
 ***
 ## Results
 ### Release movies in May, June, July, November, or December!
